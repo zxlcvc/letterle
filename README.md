@@ -1,7 +1,7 @@
 # LetterLe
 
 LetterLe started as a quick tool I made for a friend who kept getting tilted in Discord’s Letter League.
-Originally it was a chaotic joke GUI (on purpose), but I’ve cleaned it up and rebranded it into something actually.
+Originally it was a chaotic joke GUI (on purpose), but I’ve cleaned it up and rebranded it into something actually usable.
 
 Despite the original meme origins, LetterLe is a legitimately useful helper for Letter League, Scrabble, anagrams, Boggle, or any game where you need to quickly see what words you can make from a pile of letters.
 
