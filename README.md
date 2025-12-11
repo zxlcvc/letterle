@@ -18,7 +18,7 @@ Uses a full Scrabble-legal dictionary (words.txt)
 
 Simple, fast, no nonsense
 
-#Why I made it
+# Why I made it
 
 A friend of mine kept losing Letter League matches and getting tilted, so I made the original version out of spite and comedy.
 That version looked like a 1998 malware pop-up.
